@@ -1,1 +1,1 @@
-# Readme
+lets study technology
